@@ -1,0 +1,10 @@
+# JARVIS Hand Gesture Laptop Control System
+# Core Dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+PySide6>=6.6.0
+pyautogui>=0.9.54
+numpy>=1.24.0,<2.0.0
+pycaw>=20240210
+comtypes>=1.2.0
+pytest>=8.0.0

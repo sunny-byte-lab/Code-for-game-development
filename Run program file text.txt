@@ -1,0 +1,3 @@
+cd /d D:\hologram
+.venv\Scripts\activate
+python main.py

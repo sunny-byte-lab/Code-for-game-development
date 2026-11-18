@@ -1,0 +1,33 @@
+# JARVIS Hand Gesture Controller
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.venv/
+env/
+venv/
+dist/
+build/
+*.spec
+.pytest_cache/
+.coverage
+htmlcov/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Backup folders
+backup_checkpoint_*/
+
+# Executable files
+*.exe
+
+# Sensitive configuration
+config.json
+.env
+
+# Runtime logs
+nexus.log*
+jarvis.log*
+.vscode/
